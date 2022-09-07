@@ -1,2 +1,2 @@
 # Learning
-My learning process from noob to pro in programming
+Documenting my learning process from noob to pro in programming
