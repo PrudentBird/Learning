@@ -1,3 +1,3 @@
 # Learning HTML
 
-Documenting learning process in modern HTML5
+Documenting my learning process in modern HTML5
